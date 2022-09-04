@@ -1,3 +1,7 @@
+# Lire le tuto suivant
+
+[Authentication in React 18 using Firebase v9] https://blog.openreplay.com/authentication-in-react-18-using-firebase-v9
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
